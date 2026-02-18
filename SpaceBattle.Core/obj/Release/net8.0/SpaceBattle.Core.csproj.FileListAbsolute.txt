@@ -1,0 +1,12 @@
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\bin\Release\net8.0\SpaceBattle.Core.deps.json
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\bin\Release\net8.0\SpaceBattle.Core.dll
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\bin\Release\net8.0\SpaceBattle.Core.pdb
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Release\net8.0\SpaceBattle.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Release\net8.0\SpaceBattle.Core.AssemblyInfoInputs.cache
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Release\net8.0\SpaceBattle.Core.AssemblyInfo.cs
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Release\net8.0\SpaceBattle.Core.csproj.CoreCompileInputs.cache
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Release\net8.0\SpaceBattle.Core.sourcelink.json
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Release\net8.0\SpaceBattle.Core.dll
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Release\net8.0\refint\SpaceBattle.Core.dll
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Release\net8.0\SpaceBattle.Core.pdb
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Release\net8.0\ref\SpaceBattle.Core.dll

@@ -1,0 +1,11 @@
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Debug\net8.0\SpaceBattle.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Debug\net8.0\SpaceBattle.Core.AssemblyInfoInputs.cache
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Debug\net8.0\SpaceBattle.Core.AssemblyInfo.cs
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Debug\net8.0\SpaceBattle.Core.csproj.CoreCompileInputs.cache
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\bin\Debug\net8.0\SpaceBattle.Core.deps.json
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\bin\Debug\net8.0\SpaceBattle.Core.dll
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\bin\Debug\net8.0\SpaceBattle.Core.pdb
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Debug\net8.0\SpaceBattle.Core.dll
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Debug\net8.0\refint\SpaceBattle.Core.dll
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Debug\net8.0\SpaceBattle.Core.pdb
+C:\Users\roma1\Desktop\ОАиП\SpaceBattle.Core\obj\Debug\net8.0\ref\SpaceBattle.Core.dll
